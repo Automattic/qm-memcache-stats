@@ -1,0 +1,17 @@
+{
+    "name": "boxuk/qm-memcache-stats",
+    "description": "WordPress plugin to provide Memcache Stats to the awesome Query Monitor plugin.",
+    "license": "GPLv2",
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/query-monitor": "^3.6"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.3"
+    }
+}
