@@ -62,6 +62,7 @@ class QM_Output_Memcache_Stats extends QM_Output_Html {
 			echo '</tbody>';
 			echo '</table>';
 		}
+		echo '</div>';
 	}
 
 	/**
